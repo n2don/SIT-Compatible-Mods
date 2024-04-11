@@ -19,9 +19,12 @@ This repo is only a list of compatible mods and you should not report bugs here,
 - [BotDebug](https://github.com/stayintarkov/SIT-Mod-Ports)
 
 
-# Bleeding Edge Builds - EFT v0.14.1.3.29351, SIT >=1.10.8866
-- [DadGamerMode](https://github.com/n2don/DadGamerMode)
-- [That's Lit](https://github.com/n2don/SPT_ThatsLit)
+# Bleeding Edge Builds 
+### EFT v0.14.1.3.29351, SIT >=1.10.8866
+- [DadGamerMode](https://github.com/n2don/DadGamerMode) v1.8.3
+- [That's Lit](https://github.com/n2don/SPT_ThatsLit) v.1.386.10
+- [Big Brain](https://github.com/n2don/SPT-BigBrain) v.0.4.0
+- [Waypoints](https://github.com/n2don/SPT-Waypoints) v.1.4.2
 
 # Tested and Working With No Modification
 *NOTE: This list contains mods that the community has reported as working, but they might not have all been verified by the maintainers of this repo*
