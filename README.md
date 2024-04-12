@@ -20,11 +20,13 @@ This repo is only a list of compatible mods and you should not report bugs here,
 
 
 # Bleeding Edge Builds 
-### EFT v0.14.1.3.29351, SIT >=1.10.8866
+### EFT v0.14.1.3.29351 | SIT >=1.10.8867.33190
 - [DadGamerMode](https://github.com/n2don/DadGamerMode) v1.8.3
 - [That's Lit](https://github.com/n2don/SPT_ThatsLit) v.1.386.10
 - [Big Brain](https://github.com/n2don/SPT-BigBrain) v.0.4.0
 - [Waypoints](https://github.com/n2don/SPT-Waypoints) v.1.4.2
+- [Looting Bots](https://github.com/n2don/SPT-LootingBots) v1.3.0
+- [SAIN](https://github.com/n2don/SAIN) v2.1.12
 
 # Tested and Working With No Modification
 *NOTE: This list contains mods that the community has reported as working, but they might not have all been verified by the maintainers of this repo*
